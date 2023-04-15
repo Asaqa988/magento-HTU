@@ -15,7 +15,7 @@ public class Parameterss {
 	
 	String FirstName = "HTU" ;
 	String LastName = "Students" ;
-	String Email_adress = "abedsaqqa539@gmail.com"; 
+	String Email_adress = "abedsaqqa539s2110@gmail.com"; 
 	
 	
 	
