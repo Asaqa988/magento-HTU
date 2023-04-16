@@ -1,4 +1,5 @@
 import java.security.SecureRandom;
+import java.util.Random;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -15,7 +16,10 @@ public class Parameterss {
 	
 	String FirstName = "HTU" ;
 	String LastName = "Students" ;
-	String Email_adress = "abedsaqqa539s2110@gmail.com"; 
+	String Email_adress = "HTU1234@gmail.com"; 
+	String PasswordNew = "KIkiNINI123123"; 
+	
+	
 	
 	
 	

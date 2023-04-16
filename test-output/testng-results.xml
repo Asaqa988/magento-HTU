@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-15T14:15:25 EEST" name="Default suite" finished-at="2023-04-15T14:15:41 EEST" duration-ms="16518">
+  <suite started-at="2023-04-16T17:11:43 EEST" name="Default suite" finished-at="2023-04-16T17:11:53 EEST" duration-ms="10896">
     <groups>
     </groups>
-    <test started-at="2023-04-15T14:15:25 EEST" name="Default test" finished-at="2023-04-15T14:15:41 EEST" duration-ms="16518">
+    <test started-at="2023-04-16T17:11:43 EEST" name="Default test" finished-at="2023-04-16T17:11:53 EEST" duration-ms="10896">
       <class name="MyTestCases">
-        <test-method is-config="true" signature="myBeforeTest()[pri:0, instance:MyTestCases@4159e81b]" started-at="2023-04-15T14:15:25 EEST" name="myBeforeTest" finished-at="2023-04-15T14:15:27 EEST" duration-ms="2388" status="PASS">
+        <test-method is-config="true" signature="myBeforeTest()[pri:0, instance:MyTestCases@70807224]" started-at="2023-04-16T17:11:43 EEST" name="myBeforeTest" finished-at="2023-04-16T17:11:45 EEST" duration-ms="2237" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- myBeforeTest -->
-        <test-method signature="SIGNUP()[pri:0, instance:MyTestCases@4159e81b]" started-at="2023-04-15T14:15:27 EEST" name="SIGNUP" finished-at="2023-04-15T14:15:31 EEST" duration-ms="3863" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SIGNUP -->
-        <test-method signature="SignIn()[pri:0, instance:MyTestCases@4159e81b]" started-at="2023-04-15T14:15:31 EEST" name="SignIn" finished-at="2023-04-15T14:15:41 EEST" duration-ms="10247" status="PASS">
+        <test-method signature="SignIn()[pri:1, instance:MyTestCases@70807224]" started-at="2023-04-16T17:11:45 EEST" name="SignIn" finished-at="2023-04-16T17:11:49 EEST" duration-ms="4254" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SignIn -->
-        <test-method is-config="true" signature="AfterMyTestDone()[pri:0, instance:MyTestCases@4159e81b]" started-at="2023-04-15T14:15:41 EEST" name="AfterMyTestDone" finished-at="2023-04-15T14:15:41 EEST" duration-ms="0" status="PASS">
+        <test-method signature="OurFirstOrder()[pri:2, instance:MyTestCases@70807224]" started-at="2023-04-16T17:11:49 EEST" name="OurFirstOrder" finished-at="2023-04-16T17:11:53 EEST" duration-ms="4388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OurFirstOrder -->
+        <test-method is-config="true" signature="AfterMyTestDone()[pri:0, instance:MyTestCases@70807224]" started-at="2023-04-16T17:11:53 EEST" name="AfterMyTestDone" finished-at="2023-04-16T17:11:53 EEST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMyTestDone -->
